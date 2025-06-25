@@ -5,3 +5,4 @@ BUILD_INSTRUCTIONS.md
 build.bat
 build.sh
 requirements_build.txt
+.gitignore

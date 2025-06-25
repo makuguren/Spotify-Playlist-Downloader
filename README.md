@@ -25,14 +25,22 @@ A comprehensive Spotify downloader that supports **playlists and albums** with u
 
 ## 🚀 Quick Start
 
-### Option 1: Auto-Install Dependencies
+### Option 1: Download Official Release (Recommended)
+Get the pre-built executable from the **[Releases](../../releases)** tab:
+
+1. **Go to Releases** - Click the "Releases" tab on the GitHub repository
+2. **Download Latest** - Download `Spotify Playlist Downloader by Makuguren.exe`
+3. **Run Directly** - No Python installation required, just double-click to run
+4. **Windows Ready** - Works on any Windows 10+ system
+
+### Option 2: Auto-Install Dependencies
 The application will automatically install missing dependencies on first run:
 
 ```bash
 python spotify_playlist_downloader.py
 ```
 
-### Option 2: Manual Installation
+### Option 3: Manual Installation
 Install dependencies manually:
 
 ```bash
@@ -41,7 +49,7 @@ spotdl --download-ffmpeg
 python spotify_playlist_downloader.py
 ```
 
-### Option 3: Google Colab (No Installation Required)
+### Option 4: Google Colab (No Installation Required)
 Run directly in your browser using Google Colab:
 
 1. **Open Google Colab**: Go to [colab.research.google.com](https://colab.research.google.com)
