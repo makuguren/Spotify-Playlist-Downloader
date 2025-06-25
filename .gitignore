@@ -1,0 +1,7 @@
+build/
+dist/
+build_exe.py
+BUILD_INSTRUCTIONS.md
+build.bat
+build.sh
+requirements_build.txt

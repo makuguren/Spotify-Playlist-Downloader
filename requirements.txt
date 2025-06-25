@@ -1,0 +1,2 @@
+spotdl
+yt-dlp
